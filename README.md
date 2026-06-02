@@ -107,7 +107,7 @@ Filtering for assets positive across all 5 time windows simultaneously (1h AND 2
 ESPORTS dominates global transaction velocity with a volume-to-market-cap ratio of **4.15** — meaning its entire market value traded more than 4 times in a single 24-hour window.
 
 **Supply Maturity**
-Exactly **173 out of 1,000 coins** have over 90% of maximum supply in active circulation — including BTC at 95.03%, BCH at 95.06%, and WBTC at 100.00%. These assets carry the lowest inflation dilution risk.
+Exactly **173 out of 1,000 coins** have over 90% of maximum supply in active circulation — including BTC at 95.03%, BCH at 95.06%, and WBTC at 100.00%. These are the assets which carry the lowest inflation dilution risk.
 
 ---
 
